@@ -6,3 +6,4 @@ param($key, $arg)
 
 [Microsoft.PowerShell.PSConsoleReadLine]::InvokePrompt()
 [Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
+}
